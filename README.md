@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...aa....
 - 📫 How to reach me.........
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I m boring. No fun fact here
+- ⚡ Fun fact: I m boring. No fun fact here 😑
 
 <!---
 psudocoder-Arnab/psudocoder-Arnab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
